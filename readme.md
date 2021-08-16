@@ -2,8 +2,10 @@
 
 Some basic amateur designs using the NixOS logo. Pretty similar to [high-quality-nix-stuff][4].
 
-Made with Inkscape[^][Honestly, [Adobe XD][5] or [Figma][6] would have been a better fit. `¯\_(ツ)_/¯`]. 
+Made with Inkscape. That is also why the svg-previews suck. `¯\_(ツ)_/¯`]. The next time I use [Adobe XD][5] or [Figma][6].
+
 Heavily abuses the [Google Fonts collection][1]. 
+
 Use however you want: ([CC BY 4.0][2])
 
 Note: I make use of the base [NixOS logo][3] design by Tim Cuthbertson (@timbertson).
