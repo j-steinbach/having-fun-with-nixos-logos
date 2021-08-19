@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="524.7608"
+   height="162.58798"
+   viewBox="0 0 138.84296 43.018069"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="nixfiles-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#4a4a4a"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="px"
+     showgrid="false"
+     showborder="true"
+     units="px"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="382.54477"
+     inkscape:cy="289.91378"
+     inkscape:window-width="1276"
+     inkscape:window-height="1389"
+     inkscape:window-x="3200"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     lock-margins="false"
+     inkscape:snap-page="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="false"
+     borderlayer="false"
+     inkscape:lockguides="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6"
+       dotted="false"
+       originx="-255.07222"
+       originy="-48.653255"
+       empspacing="5" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid533"
+       empspacing="10"
+       color="#3f3fff"
+       opacity="0"
+       empcolor="#0000a3"
+       empopacity="0.10196078"
+       originx="-255.07222"
+       originy="-48.653255" />
+    <sodipodi:guide
+       position="338.66666,190.5"
+       orientation="-1,0"
+       id="guide916"
+       inkscape:label="Center V"
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="338.66666,190.5"
+       orientation="0,1"
+       id="guide918"
+       inkscape:label="Center H"
+       inkscape:locked="true"
+       inkscape:color="rgb(129,61,156)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 1"
+     transform="translate(-255.07222,-48.653259)">
+    <circle
+       style="mix-blend-mode:normal;fill:#00112b;fill-opacity:1;stroke:#5599ff;stroke-width:2.33365"
+       id="circle45589"
+       cx="306.04892"
+       cy="70.162292"
+       r="20.342209" />
+    <text
+       xml:space="preserve"
+       style="font-size:42.3333px;line-height:1.25;font-family:Vegur;-inkscape-font-specification:Vegur;stroke-width:0.264583"
+       x="252.10889"
+       y="84.734283"
+       id="text45593"><tspan
+         sodipodi:role="line"
+         id="tspan45591"
+         style="font-size:42.3333px;stroke-width:0.264583"
+         x="252.10889"
+         y="84.734283">ni</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:42.3333px;line-height:1.25;font-family:Vegur;-inkscape-font-specification:Vegur;stroke-width:0.264583"
+       x="329.10303"
+       y="84.734283"
+       id="text45597"><tspan
+         sodipodi:role="line"
+         id="tspan45595"
+         style="font-size:42.3333px;stroke-width:0.264583"
+         x="329.10303"
+         y="84.734283">files</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:42.3333px;line-height:1.25;font-family:Vegur;-inkscape-font-specification:Vegur;fill:#ffffff;stroke-width:0.264583"
+       x="294.53427"
+       y="84.724945"
+       id="text45601"><tspan
+         sodipodi:role="line"
+         id="tspan45599"
+         style="font-size:42.3333px;fill:#ffffff;stroke-width:0.264583"
+         x="294.53427"
+         y="84.724945">X</tspan></text>
+  </g>
+  <metadata
+     id="metadata531">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>J. Steinbach</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
